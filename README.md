@@ -1,1 +1,1 @@
-Link » https://wiki.xenonrp.ro/
+Link: [XENON Wiki](https://wiki.xenonrp.ro)
