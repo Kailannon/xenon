@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Informații utile](README.md)
-  * [Despre noi](informatii/despre-noi.md)
+## ℹ️ Informații
+
+* [📕 Regulament](README.md)
